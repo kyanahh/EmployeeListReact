@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kyanahh.github.io/WebTech2Final/static/css/main.44f8b8b5.css",
+    "main.js": "/kyanahh.github.io/WebTech2Final/static/js/main.23f15532.js",
+    "index.html": "/kyanahh.github.io/WebTech2Final/index.html",
+    "main.44f8b8b5.css.map": "/kyanahh.github.io/WebTech2Final/static/css/main.44f8b8b5.css.map",
+    "main.23f15532.js.map": "/kyanahh.github.io/WebTech2Final/static/js/main.23f15532.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.23f15532.js"
+  ]
+}
