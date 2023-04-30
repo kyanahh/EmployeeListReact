@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kyanahh.github.io/WebTech2Final/static/css/main.44f8b8b5.css",
-    "main.js": "/kyanahh.github.io/WebTech2Final/static/js/main.23f15532.js",
-    "index.html": "/kyanahh.github.io/WebTech2Final/index.html",
-    "main.44f8b8b5.css.map": "/kyanahh.github.io/WebTech2Final/static/css/main.44f8b8b5.css.map",
-    "main.23f15532.js.map": "/kyanahh.github.io/WebTech2Final/static/js/main.23f15532.js.map"
+    "main.css": "/WebTech2Final/static/css/main.44f8b8b5.css",
+    "main.js": "/WebTech2Final/static/js/main.45fca757.js",
+    "index.html": "/WebTech2Final/index.html",
+    "main.44f8b8b5.css.map": "/WebTech2Final/static/css/main.44f8b8b5.css.map",
+    "main.45fca757.js.map": "/WebTech2Final/static/js/main.45fca757.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.23f15532.js"
+    "static/js/main.45fca757.js"
   ]
 }
