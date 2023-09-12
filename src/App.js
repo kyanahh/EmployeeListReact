@@ -143,7 +143,7 @@ function App() {
       </div>
       </div>
       <div className="col-auto">
-      <button type="submit" className="btn btn-primary ml-2">
+      <button type="submit" className="btn btn-primary ml-2 mx-2">
         {editEmployeeId ? "Update" : "Add Employee"}
       </button>
       {editEmployeeId && (
